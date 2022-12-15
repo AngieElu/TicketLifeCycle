@@ -38,14 +38,6 @@ The open tickets above do not have the proper severity settings. The have not be
 <br />
 
 <p>
-<img src="https://i.imgur.com/xkZ316M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-The open ticket "Ticket #791641" has been assigned to Ronni Amos. The priority status has changed from Normal to Emergency. The ticket was also transferred to System Administrators Department, which was previously under the Support Department.
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/KpLWf88.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
